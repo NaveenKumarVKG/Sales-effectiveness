@@ -1,0 +1,19 @@
+by:-
+	Naveen Kumar 
+
+Sales effectiveness:-
+* FicZon Inc is an IT solution provider offering on-premises products as well as SAAS-based solutions. 
+
+* FicZon's primary lead generation channel is digital, via their website. The sales force is crucial to the FicZon business. effectiveness. As the market matures and more new competitors enter, FicZon's sales have dropped since entering the market.
+
+* Effective sales are dependent on lead quality, which is currently lacking. based on manual categorization and highly depended on sales staff.
+
+* Despite the fact that there is a quality process that is constantly updating the
+
+* The value of lead categorization is in post-analysis, rather than conversation.
+
+* FicZon wishes to investigate Machine Learning in order to categorize the lead.
+
+* As a result, we anticipate a significant increase in sales. effectiveness.
+
+
